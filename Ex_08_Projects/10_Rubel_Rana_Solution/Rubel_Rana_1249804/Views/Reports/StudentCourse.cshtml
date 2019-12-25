@@ -1,0 +1,47 @@
+﻿@model IEnumerable<Rubel_Rana_1249804.ViewModels.StudentCourseRpt>
+
+@{
+    ViewBag.Title = "StudentCourse";
+}
+
+
+@using (Html.BeginForm("Export", "Reports", FormMethod.Post))
+{
+    <input type="hidden" name="GridHtml" />
+    <input type="hidden" name="reportName" value="Student By Course" />
+    <button id="btnSubmit" title="Print report" type="submit" class="btn btn-primary text-right">print</button>
+}
+
+    <div id="grid">
+        <h2 style="color:blueviolet">StudentCourse</h2>
+        <table class="table table-bordered" border="1" cellpadding="2" cellspacing="0" style="width:100%">
+            <tr style="background-color:cyan; color:brown">
+                <th >Student Name</th>
+                <th>Semiseter</th>
+                <th>Admission Date</th>
+            </tr>
+
+            @foreach (var item in Model)
+            {
+              
+                foreach (var s in item.Students)
+                {
+                    <tr>
+                        <td>@s.StudentName</td>
+                        <td>@s.Semister.SemisterName</td>
+                        <td>@s.AdmissionDate.ToString("yyyy-MM-dd")</td>
+                    </tr>
+                }
+            }
+
+        </table>
+    </div>
+@section scripts {
+    <script type="text/javascript">
+        $(function () {
+            $("#btnSubmit").click(function () {
+                $("input[name='GridHtml']").val($("#grid").html());
+            });
+        });
+    </script>
+}

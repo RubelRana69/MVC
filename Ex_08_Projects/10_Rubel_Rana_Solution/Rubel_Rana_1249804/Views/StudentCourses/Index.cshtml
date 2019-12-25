@@ -1,0 +1,54 @@
+﻿@model IEnumerable<Rubel_Rana_1249804.StudentCourse>
+@using PagedList
+@using PagedList.Mvc
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table class="table table-bordered">
+    <tr style="background-color:cadetblue; color:blue">
+        <th>
+            @Html.DisplayNameFor(model => model.CourseAvailable)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Cours.CourseName)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Student.StudentName)
+        </th>
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.CourseAvailable)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Cours.CourseName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Student.StudentName)
+            </td>
+            <td>
+                <span> @Html.ActionLink("Edit", "Edit", new { /* id=item.PrimaryKey */ }, new { @class = "btn btn-success" }) </span> |
+                <span> @Html.ActionLink("Details", "Details", new { /* id=item.PrimaryKey */ }, new { @class = "btn btn-info" })</span> |
+                <span>@Html.ActionLink("Delete", "Delete", new { /* id=item.PrimaryKey */ }, new { @class = "btn btn-danger" })</span>
+            </td>
+        </tr>
+    }
+
+</table>
+<div class="text-right">
+    @Html.PagedListPager(Model as IPagedList, page => Url.Action("Index", new { page }))
+</div>
+@section styles{
+
+    <link href="~/Content/PagedList.css" rel="stylesheet" />
+}

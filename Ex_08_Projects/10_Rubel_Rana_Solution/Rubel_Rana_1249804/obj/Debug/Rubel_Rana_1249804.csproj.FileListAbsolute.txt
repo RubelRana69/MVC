@@ -1,0 +1,553 @@
+D:\Md.Rubel Rana.40\MVC\Project\Rubel_Rana_Solution\Rubel_Rana_1249804\bin\Rubel_Rana_1249804.dll.config
+D:\Md.Rubel Rana.40\MVC\Project\Rubel_Rana_Solution\Rubel_Rana_1249804\bin\Rubel_Rana_1249804.dll
+D:\Md.Rubel Rana.40\MVC\Project\Rubel_Rana_Solution\Rubel_Rana_1249804\bin\Rubel_Rana_1249804.pdb
+D:\Md.Rubel Rana.40\MVC\Project\Rubel_Rana_Solution\Rubel_Rana_1249804\bin\roslyn\csc.exe
+D:\Md.Rubel Rana.40\MVC\Project\Rubel_Rana_Solution\Rubel_Rana_1249804\bin\roslyn\csc.exe.config
+D:\Md.Rubel Rana.40\MVC\Project\Rubel_Rana_Solution\Rubel_Rana_1249804\bin\roslyn\csc.rsp
+D:\Md.Rubel Rana.40\MVC\Project\Rubel_Rana_Solution\Rubel_Rana_1249804\bin\roslyn\csi.exe
+D:\Md.Rubel Rana.40\MVC\Project\Rubel_Rana_Solution\Rubel_Rana_1249804\bin\roslyn\csi.exe.config
+D:\Md.Rubel Rana.40\MVC\Project\Rubel_Rana_Solution\Rubel_Rana_1249804\bin\roslyn\csi.rsp
+D:\Md.Rubel Rana.40\MVC\Project\Rubel_Rana_Solution\Rubel_Rana_1249804\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Md.Rubel Rana.40\MVC\Project\Rubel_Rana_Solution\Rubel_Rana_1249804\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Md.Rubel Rana.40\MVC\Project\Rubel_Rana_Solution\Rubel_Rana_1249804\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Md.Rubel Rana.40\MVC\Project\Rubel_Rana_Solution\Rubel_Rana_1249804\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Md.Rubel Rana.40\MVC\Project\Rubel_Rana_Solution\Rubel_Rana_1249804\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Md.Rubel Rana.40\MVC\Project\Rubel_Rana_Solution\Rubel_Rana_1249804\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Md.Rubel Rana.40\MVC\Project\Rubel_Rana_Solution\Rubel_Rana_1249804\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Md.Rubel Rana.40\MVC\Project\Rubel_Rana_Solution\Rubel_Rana_1249804\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Md.Rubel Rana.40\MVC\Project\Rubel_Rana_Solution\Rubel_Rana_1249804\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Md.Rubel Rana.40\MVC\Project\Rubel_Rana_Solution\Rubel_Rana_1249804\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Md.Rubel Rana.40\MVC\Project\Rubel_Rana_Solution\Rubel_Rana_1249804\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Md.Rubel Rana.40\MVC\Project\Rubel_Rana_Solution\Rubel_Rana_1249804\bin\roslyn\System.AppContext.dll
+D:\Md.Rubel Rana.40\MVC\Project\Rubel_Rana_Solution\Rubel_Rana_1249804\bin\roslyn\System.Collections.Immutable.dll
+D:\Md.Rubel Rana.40\MVC\Project\Rubel_Rana_Solution\Rubel_Rana_1249804\bin\roslyn\System.Console.dll
+D:\Md.Rubel Rana.40\MVC\Project\Rubel_Rana_Solution\Rubel_Rana_1249804\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Md.Rubel Rana.40\MVC\Project\Rubel_Rana_Solution\Rubel_Rana_1249804\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Md.Rubel Rana.40\MVC\Project\Rubel_Rana_Solution\Rubel_Rana_1249804\bin\roslyn\System.IO.Compression.dll
+D:\Md.Rubel Rana.40\MVC\Project\Rubel_Rana_Solution\Rubel_Rana_1249804\bin\roslyn\System.IO.FileSystem.dll
+D:\Md.Rubel Rana.40\MVC\Project\Rubel_Rana_Solution\Rubel_Rana_1249804\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Md.Rubel Rana.40\MVC\Project\Rubel_Rana_Solution\Rubel_Rana_1249804\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\Md.Rubel Rana.40\MVC\Project\Rubel_Rana_Solution\Rubel_Rana_1249804\bin\roslyn\System.IO.Pipes.dll
+D:\Md.Rubel Rana.40\MVC\Project\Rubel_Rana_Solution\Rubel_Rana_1249804\bin\roslyn\System.Reflection.Metadata.dll
+D:\Md.Rubel Rana.40\MVC\Project\Rubel_Rana_Solution\Rubel_Rana_1249804\bin\roslyn\System.Security.AccessControl.dll
+D:\Md.Rubel Rana.40\MVC\Project\Rubel_Rana_Solution\Rubel_Rana_1249804\bin\roslyn\System.Security.Claims.dll
+D:\Md.Rubel Rana.40\MVC\Project\Rubel_Rana_Solution\Rubel_Rana_1249804\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Md.Rubel Rana.40\MVC\Project\Rubel_Rana_Solution\Rubel_Rana_1249804\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Md.Rubel Rana.40\MVC\Project\Rubel_Rana_Solution\Rubel_Rana_1249804\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Md.Rubel Rana.40\MVC\Project\Rubel_Rana_Solution\Rubel_Rana_1249804\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Md.Rubel Rana.40\MVC\Project\Rubel_Rana_Solution\Rubel_Rana_1249804\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Md.Rubel Rana.40\MVC\Project\Rubel_Rana_Solution\Rubel_Rana_1249804\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Md.Rubel Rana.40\MVC\Project\Rubel_Rana_Solution\Rubel_Rana_1249804\bin\roslyn\System.ValueTuple.dll
+D:\Md.Rubel Rana.40\MVC\Project\Rubel_Rana_Solution\Rubel_Rana_1249804\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Md.Rubel Rana.40\MVC\Project\Rubel_Rana_Solution\Rubel_Rana_1249804\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Md.Rubel Rana.40\MVC\Project\Rubel_Rana_Solution\Rubel_Rana_1249804\bin\roslyn\System.Xml.XPath.dll
+D:\Md.Rubel Rana.40\MVC\Project\Rubel_Rana_Solution\Rubel_Rana_1249804\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Md.Rubel Rana.40\MVC\Project\Rubel_Rana_Solution\Rubel_Rana_1249804\bin\roslyn\vbc.exe
+D:\Md.Rubel Rana.40\MVC\Project\Rubel_Rana_Solution\Rubel_Rana_1249804\bin\roslyn\vbc.exe.config
+D:\Md.Rubel Rana.40\MVC\Project\Rubel_Rana_Solution\Rubel_Rana_1249804\bin\roslyn\vbc.rsp
+D:\Md.Rubel Rana.40\MVC\Project\Rubel_Rana_Solution\Rubel_Rana_1249804\bin\roslyn\VBCSCompiler.exe
+D:\Md.Rubel Rana.40\MVC\Project\Rubel_Rana_Solution\Rubel_Rana_1249804\bin\roslyn\VBCSCompiler.exe.config
+D:\Md.Rubel Rana.40\MVC\Project\Rubel_Rana_Solution\Rubel_Rana_1249804\bin\Antlr3.Runtime.dll
+D:\Md.Rubel Rana.40\MVC\Project\Rubel_Rana_Solution\Rubel_Rana_1249804\bin\EntityFramework.dll
+D:\Md.Rubel Rana.40\MVC\Project\Rubel_Rana_Solution\Rubel_Rana_1249804\bin\EntityFramework.SqlServer.dll
+D:\Md.Rubel Rana.40\MVC\Project\Rubel_Rana_Solution\Rubel_Rana_1249804\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Md.Rubel Rana.40\MVC\Project\Rubel_Rana_Solution\Rubel_Rana_1249804\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Md.Rubel Rana.40\MVC\Project\Rubel_Rana_Solution\Rubel_Rana_1249804\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Md.Rubel Rana.40\MVC\Project\Rubel_Rana_Solution\Rubel_Rana_1249804\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Md.Rubel Rana.40\MVC\Project\Rubel_Rana_Solution\Rubel_Rana_1249804\bin\Microsoft.Owin.dll
+D:\Md.Rubel Rana.40\MVC\Project\Rubel_Rana_Solution\Rubel_Rana_1249804\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Md.Rubel Rana.40\MVC\Project\Rubel_Rana_Solution\Rubel_Rana_1249804\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Md.Rubel Rana.40\MVC\Project\Rubel_Rana_Solution\Rubel_Rana_1249804\bin\Microsoft.Owin.Security.dll
+D:\Md.Rubel Rana.40\MVC\Project\Rubel_Rana_Solution\Rubel_Rana_1249804\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Md.Rubel Rana.40\MVC\Project\Rubel_Rana_Solution\Rubel_Rana_1249804\bin\Microsoft.Owin.Security.Google.dll
+D:\Md.Rubel Rana.40\MVC\Project\Rubel_Rana_Solution\Rubel_Rana_1249804\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Md.Rubel Rana.40\MVC\Project\Rubel_Rana_Solution\Rubel_Rana_1249804\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Md.Rubel Rana.40\MVC\Project\Rubel_Rana_Solution\Rubel_Rana_1249804\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Md.Rubel Rana.40\MVC\Project\Rubel_Rana_Solution\Rubel_Rana_1249804\bin\Microsoft.Web.Infrastructure.dll
+D:\Md.Rubel Rana.40\MVC\Project\Rubel_Rana_Solution\Rubel_Rana_1249804\bin\Newtonsoft.Json.dll
+D:\Md.Rubel Rana.40\MVC\Project\Rubel_Rana_Solution\Rubel_Rana_1249804\bin\Owin.dll
+D:\Md.Rubel Rana.40\MVC\Project\Rubel_Rana_Solution\Rubel_Rana_1249804\bin\System.Web.Helpers.dll
+D:\Md.Rubel Rana.40\MVC\Project\Rubel_Rana_Solution\Rubel_Rana_1249804\bin\System.Web.Mvc.dll
+D:\Md.Rubel Rana.40\MVC\Project\Rubel_Rana_Solution\Rubel_Rana_1249804\bin\System.Web.Optimization.dll
+D:\Md.Rubel Rana.40\MVC\Project\Rubel_Rana_Solution\Rubel_Rana_1249804\bin\System.Web.Razor.dll
+D:\Md.Rubel Rana.40\MVC\Project\Rubel_Rana_Solution\Rubel_Rana_1249804\bin\System.Web.WebPages.Deployment.dll
+D:\Md.Rubel Rana.40\MVC\Project\Rubel_Rana_Solution\Rubel_Rana_1249804\bin\System.Web.WebPages.dll
+D:\Md.Rubel Rana.40\MVC\Project\Rubel_Rana_Solution\Rubel_Rana_1249804\bin\System.Web.WebPages.Razor.dll
+D:\Md.Rubel Rana.40\MVC\Project\Rubel_Rana_Solution\Rubel_Rana_1249804\bin\WebGrease.dll
+D:\Md.Rubel Rana.40\MVC\Project\Rubel_Rana_Solution\Rubel_Rana_1249804\bin\System.Web.Helpers.xml
+D:\Md.Rubel Rana.40\MVC\Project\Rubel_Rana_Solution\Rubel_Rana_1249804\bin\System.Web.Mvc.xml
+D:\Md.Rubel Rana.40\MVC\Project\Rubel_Rana_Solution\Rubel_Rana_1249804\bin\System.Web.Optimization.xml
+D:\Md.Rubel Rana.40\MVC\Project\Rubel_Rana_Solution\Rubel_Rana_1249804\bin\System.Web.Razor.xml
+D:\Md.Rubel Rana.40\MVC\Project\Rubel_Rana_Solution\Rubel_Rana_1249804\bin\System.Web.WebPages.xml
+D:\Md.Rubel Rana.40\MVC\Project\Rubel_Rana_Solution\Rubel_Rana_1249804\bin\System.Web.WebPages.Deployment.xml
+D:\Md.Rubel Rana.40\MVC\Project\Rubel_Rana_Solution\Rubel_Rana_1249804\bin\System.Web.WebPages.Razor.xml
+D:\Md.Rubel Rana.40\MVC\Project\Rubel_Rana_Solution\Rubel_Rana_1249804\bin\Newtonsoft.Json.xml
+D:\Md.Rubel Rana.40\MVC\Project\Rubel_Rana_Solution\Rubel_Rana_1249804\bin\Antlr3.Runtime.pdb
+D:\Md.Rubel Rana.40\MVC\Project\Rubel_Rana_Solution\Rubel_Rana_1249804\bin\EntityFramework.xml
+D:\Md.Rubel Rana.40\MVC\Project\Rubel_Rana_Solution\Rubel_Rana_1249804\bin\EntityFramework.SqlServer.xml
+D:\Md.Rubel Rana.40\MVC\Project\Rubel_Rana_Solution\Rubel_Rana_1249804\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Md.Rubel Rana.40\MVC\Project\Rubel_Rana_Solution\Rubel_Rana_1249804\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Md.Rubel Rana.40\MVC\Project\Rubel_Rana_Solution\Rubel_Rana_1249804\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Md.Rubel Rana.40\MVC\Project\Rubel_Rana_Solution\Rubel_Rana_1249804\bin\Microsoft.Owin.xml
+D:\Md.Rubel Rana.40\MVC\Project\Rubel_Rana_Solution\Rubel_Rana_1249804\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Md.Rubel Rana.40\MVC\Project\Rubel_Rana_Solution\Rubel_Rana_1249804\bin\Microsoft.Owin.Security.xml
+D:\Md.Rubel Rana.40\MVC\Project\Rubel_Rana_Solution\Rubel_Rana_1249804\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Md.Rubel Rana.40\MVC\Project\Rubel_Rana_Solution\Rubel_Rana_1249804\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Md.Rubel Rana.40\MVC\Project\Rubel_Rana_Solution\Rubel_Rana_1249804\bin\Microsoft.Owin.Security.Google.xml
+D:\Md.Rubel Rana.40\MVC\Project\Rubel_Rana_Solution\Rubel_Rana_1249804\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Md.Rubel Rana.40\MVC\Project\Rubel_Rana_Solution\Rubel_Rana_1249804\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Md.Rubel Rana.40\MVC\Project\Rubel_Rana_Solution\Rubel_Rana_1249804\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Md.Rubel Rana.40\MVC\Project\Rubel_Rana_Solution\Rubel_Rana_1249804\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Md.Rubel Rana.40\MVC\Project\Rubel_Rana_Solution\Rubel_Rana_1249804\obj\Debug\Rubel_Rana_1249804.csprojAssemblyReference.cache
+D:\Md.Rubel Rana.40\MVC\Project\Rubel_Rana_Solution\Rubel_Rana_1249804\obj\Debug\Rubel_Rana_1249804.csproj.CoreCompileInputs.cache
+D:\Md.Rubel Rana.40\MVC\Project\Rubel_Rana_Solution\Rubel_Rana_1249804\obj\Debug\Rubel_Rana_1249804.csproj.CopyComplete
+D:\Md.Rubel Rana.40\MVC\Project\Rubel_Rana_Solution\Rubel_Rana_1249804\obj\Debug\Rubel_Rana_1249804.dll
+D:\Md.Rubel Rana.40\MVC\Project\Rubel_Rana_Solution\Rubel_Rana_1249804\obj\Debug\Rubel_Rana_1249804.pdb
+D:\Md.Rubel Rana.40\MVC\Project\Rubel_Rana_Solution\Rubel_Rana_1249804\bin\PagedList.dll
+D:\Md.Rubel Rana.40\MVC\Project\Rubel_Rana_Solution\Rubel_Rana_1249804\bin\PagedList.Mvc.dll
+D:\Md.Rubel Rana.40\MVC\Project\Rubel_Rana_Solution\Rubel_Rana_1249804\bin\PagedList.xml
+D:\Md.Rubel Rana.40\MVC\Project\Rubel_Rana_Solution\Rubel_Rana_1249804\bin\PagedList.Mvc.xml
+H:\WorkShop\MVC Based\Project\Rubel_Rana_Solution\Rubel_Rana_1249804\bin\Rubel_Rana_1249804.dll.config
+H:\WorkShop\MVC Based\Project\Rubel_Rana_Solution\Rubel_Rana_1249804\bin\Rubel_Rana_1249804.dll
+H:\WorkShop\MVC Based\Project\Rubel_Rana_Solution\Rubel_Rana_1249804\bin\Rubel_Rana_1249804.pdb
+H:\WorkShop\MVC Based\Project\Rubel_Rana_Solution\Rubel_Rana_1249804\bin\roslyn\csc.exe
+H:\WorkShop\MVC Based\Project\Rubel_Rana_Solution\Rubel_Rana_1249804\bin\roslyn\csc.exe.config
+H:\WorkShop\MVC Based\Project\Rubel_Rana_Solution\Rubel_Rana_1249804\bin\roslyn\csc.rsp
+H:\WorkShop\MVC Based\Project\Rubel_Rana_Solution\Rubel_Rana_1249804\bin\roslyn\csi.exe
+H:\WorkShop\MVC Based\Project\Rubel_Rana_Solution\Rubel_Rana_1249804\bin\roslyn\csi.exe.config
+H:\WorkShop\MVC Based\Project\Rubel_Rana_Solution\Rubel_Rana_1249804\bin\roslyn\csi.rsp
+H:\WorkShop\MVC Based\Project\Rubel_Rana_Solution\Rubel_Rana_1249804\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+H:\WorkShop\MVC Based\Project\Rubel_Rana_Solution\Rubel_Rana_1249804\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+H:\WorkShop\MVC Based\Project\Rubel_Rana_Solution\Rubel_Rana_1249804\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+H:\WorkShop\MVC Based\Project\Rubel_Rana_Solution\Rubel_Rana_1249804\bin\roslyn\Microsoft.CodeAnalysis.dll
+H:\WorkShop\MVC Based\Project\Rubel_Rana_Solution\Rubel_Rana_1249804\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+H:\WorkShop\MVC Based\Project\Rubel_Rana_Solution\Rubel_Rana_1249804\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+H:\WorkShop\MVC Based\Project\Rubel_Rana_Solution\Rubel_Rana_1249804\bin\roslyn\Microsoft.CSharp.Core.targets
+H:\WorkShop\MVC Based\Project\Rubel_Rana_Solution\Rubel_Rana_1249804\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+H:\WorkShop\MVC Based\Project\Rubel_Rana_Solution\Rubel_Rana_1249804\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+H:\WorkShop\MVC Based\Project\Rubel_Rana_Solution\Rubel_Rana_1249804\bin\roslyn\Microsoft.Managed.Core.targets
+H:\WorkShop\MVC Based\Project\Rubel_Rana_Solution\Rubel_Rana_1249804\bin\roslyn\Microsoft.VisualBasic.Core.targets
+H:\WorkShop\MVC Based\Project\Rubel_Rana_Solution\Rubel_Rana_1249804\bin\roslyn\System.AppContext.dll
+H:\WorkShop\MVC Based\Project\Rubel_Rana_Solution\Rubel_Rana_1249804\bin\roslyn\System.Collections.Immutable.dll
+H:\WorkShop\MVC Based\Project\Rubel_Rana_Solution\Rubel_Rana_1249804\bin\roslyn\System.Console.dll
+H:\WorkShop\MVC Based\Project\Rubel_Rana_Solution\Rubel_Rana_1249804\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+H:\WorkShop\MVC Based\Project\Rubel_Rana_Solution\Rubel_Rana_1249804\bin\roslyn\System.Diagnostics.StackTrace.dll
+H:\WorkShop\MVC Based\Project\Rubel_Rana_Solution\Rubel_Rana_1249804\bin\roslyn\System.IO.Compression.dll
+H:\WorkShop\MVC Based\Project\Rubel_Rana_Solution\Rubel_Rana_1249804\bin\roslyn\System.IO.FileSystem.dll
+H:\WorkShop\MVC Based\Project\Rubel_Rana_Solution\Rubel_Rana_1249804\bin\roslyn\System.IO.FileSystem.Primitives.dll
+H:\WorkShop\MVC Based\Project\Rubel_Rana_Solution\Rubel_Rana_1249804\bin\roslyn\System.IO.Pipes.AccessControl.dll
+H:\WorkShop\MVC Based\Project\Rubel_Rana_Solution\Rubel_Rana_1249804\bin\roslyn\System.IO.Pipes.dll
+H:\WorkShop\MVC Based\Project\Rubel_Rana_Solution\Rubel_Rana_1249804\bin\roslyn\System.Reflection.Metadata.dll
+H:\WorkShop\MVC Based\Project\Rubel_Rana_Solution\Rubel_Rana_1249804\bin\roslyn\System.Security.AccessControl.dll
+H:\WorkShop\MVC Based\Project\Rubel_Rana_Solution\Rubel_Rana_1249804\bin\roslyn\System.Security.Claims.dll
+H:\WorkShop\MVC Based\Project\Rubel_Rana_Solution\Rubel_Rana_1249804\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+H:\WorkShop\MVC Based\Project\Rubel_Rana_Solution\Rubel_Rana_1249804\bin\roslyn\System.Security.Cryptography.Encoding.dll
+H:\WorkShop\MVC Based\Project\Rubel_Rana_Solution\Rubel_Rana_1249804\bin\roslyn\System.Security.Cryptography.Primitives.dll
+H:\WorkShop\MVC Based\Project\Rubel_Rana_Solution\Rubel_Rana_1249804\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+H:\WorkShop\MVC Based\Project\Rubel_Rana_Solution\Rubel_Rana_1249804\bin\roslyn\System.Security.Principal.Windows.dll
+H:\WorkShop\MVC Based\Project\Rubel_Rana_Solution\Rubel_Rana_1249804\bin\roslyn\System.Text.Encoding.CodePages.dll
+H:\WorkShop\MVC Based\Project\Rubel_Rana_Solution\Rubel_Rana_1249804\bin\roslyn\System.ValueTuple.dll
+H:\WorkShop\MVC Based\Project\Rubel_Rana_Solution\Rubel_Rana_1249804\bin\roslyn\System.Xml.ReaderWriter.dll
+H:\WorkShop\MVC Based\Project\Rubel_Rana_Solution\Rubel_Rana_1249804\bin\roslyn\System.Xml.XmlDocument.dll
+H:\WorkShop\MVC Based\Project\Rubel_Rana_Solution\Rubel_Rana_1249804\bin\roslyn\System.Xml.XPath.dll
+H:\WorkShop\MVC Based\Project\Rubel_Rana_Solution\Rubel_Rana_1249804\bin\roslyn\System.Xml.XPath.XDocument.dll
+H:\WorkShop\MVC Based\Project\Rubel_Rana_Solution\Rubel_Rana_1249804\bin\roslyn\vbc.exe
+H:\WorkShop\MVC Based\Project\Rubel_Rana_Solution\Rubel_Rana_1249804\bin\roslyn\vbc.exe.config
+H:\WorkShop\MVC Based\Project\Rubel_Rana_Solution\Rubel_Rana_1249804\bin\roslyn\vbc.rsp
+H:\WorkShop\MVC Based\Project\Rubel_Rana_Solution\Rubel_Rana_1249804\bin\roslyn\VBCSCompiler.exe
+H:\WorkShop\MVC Based\Project\Rubel_Rana_Solution\Rubel_Rana_1249804\bin\roslyn\VBCSCompiler.exe.config
+H:\WorkShop\MVC Based\Project\Rubel_Rana_Solution\Rubel_Rana_1249804\bin\Antlr3.Runtime.dll
+H:\WorkShop\MVC Based\Project\Rubel_Rana_Solution\Rubel_Rana_1249804\bin\EntityFramework.dll
+H:\WorkShop\MVC Based\Project\Rubel_Rana_Solution\Rubel_Rana_1249804\bin\EntityFramework.SqlServer.dll
+H:\WorkShop\MVC Based\Project\Rubel_Rana_Solution\Rubel_Rana_1249804\bin\Microsoft.AspNet.Identity.Core.dll
+H:\WorkShop\MVC Based\Project\Rubel_Rana_Solution\Rubel_Rana_1249804\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+H:\WorkShop\MVC Based\Project\Rubel_Rana_Solution\Rubel_Rana_1249804\bin\Microsoft.AspNet.Identity.Owin.dll
+H:\WorkShop\MVC Based\Project\Rubel_Rana_Solution\Rubel_Rana_1249804\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+H:\WorkShop\MVC Based\Project\Rubel_Rana_Solution\Rubel_Rana_1249804\bin\Microsoft.Owin.dll
+H:\WorkShop\MVC Based\Project\Rubel_Rana_Solution\Rubel_Rana_1249804\bin\Microsoft.Owin.Host.SystemWeb.dll
+H:\WorkShop\MVC Based\Project\Rubel_Rana_Solution\Rubel_Rana_1249804\bin\Microsoft.Owin.Security.Cookies.dll
+H:\WorkShop\MVC Based\Project\Rubel_Rana_Solution\Rubel_Rana_1249804\bin\Microsoft.Owin.Security.dll
+H:\WorkShop\MVC Based\Project\Rubel_Rana_Solution\Rubel_Rana_1249804\bin\Microsoft.Owin.Security.Facebook.dll
+H:\WorkShop\MVC Based\Project\Rubel_Rana_Solution\Rubel_Rana_1249804\bin\Microsoft.Owin.Security.Google.dll
+H:\WorkShop\MVC Based\Project\Rubel_Rana_Solution\Rubel_Rana_1249804\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+H:\WorkShop\MVC Based\Project\Rubel_Rana_Solution\Rubel_Rana_1249804\bin\Microsoft.Owin.Security.OAuth.dll
+H:\WorkShop\MVC Based\Project\Rubel_Rana_Solution\Rubel_Rana_1249804\bin\Microsoft.Owin.Security.Twitter.dll
+H:\WorkShop\MVC Based\Project\Rubel_Rana_Solution\Rubel_Rana_1249804\bin\Microsoft.Web.Infrastructure.dll
+H:\WorkShop\MVC Based\Project\Rubel_Rana_Solution\Rubel_Rana_1249804\bin\Newtonsoft.Json.dll
+H:\WorkShop\MVC Based\Project\Rubel_Rana_Solution\Rubel_Rana_1249804\bin\Owin.dll
+H:\WorkShop\MVC Based\Project\Rubel_Rana_Solution\Rubel_Rana_1249804\bin\PagedList.dll
+H:\WorkShop\MVC Based\Project\Rubel_Rana_Solution\Rubel_Rana_1249804\bin\PagedList.Mvc.dll
+H:\WorkShop\MVC Based\Project\Rubel_Rana_Solution\Rubel_Rana_1249804\bin\System.Web.Helpers.dll
+H:\WorkShop\MVC Based\Project\Rubel_Rana_Solution\Rubel_Rana_1249804\bin\System.Web.Mvc.dll
+H:\WorkShop\MVC Based\Project\Rubel_Rana_Solution\Rubel_Rana_1249804\bin\System.Web.Optimization.dll
+H:\WorkShop\MVC Based\Project\Rubel_Rana_Solution\Rubel_Rana_1249804\bin\System.Web.Razor.dll
+H:\WorkShop\MVC Based\Project\Rubel_Rana_Solution\Rubel_Rana_1249804\bin\System.Web.WebPages.Deployment.dll
+H:\WorkShop\MVC Based\Project\Rubel_Rana_Solution\Rubel_Rana_1249804\bin\System.Web.WebPages.dll
+H:\WorkShop\MVC Based\Project\Rubel_Rana_Solution\Rubel_Rana_1249804\bin\System.Web.WebPages.Razor.dll
+H:\WorkShop\MVC Based\Project\Rubel_Rana_Solution\Rubel_Rana_1249804\bin\WebGrease.dll
+H:\WorkShop\MVC Based\Project\Rubel_Rana_Solution\Rubel_Rana_1249804\bin\PagedList.xml
+H:\WorkShop\MVC Based\Project\Rubel_Rana_Solution\Rubel_Rana_1249804\bin\PagedList.Mvc.xml
+H:\WorkShop\MVC Based\Project\Rubel_Rana_Solution\Rubel_Rana_1249804\bin\System.Web.Helpers.xml
+H:\WorkShop\MVC Based\Project\Rubel_Rana_Solution\Rubel_Rana_1249804\bin\System.Web.Mvc.xml
+H:\WorkShop\MVC Based\Project\Rubel_Rana_Solution\Rubel_Rana_1249804\bin\System.Web.Optimization.xml
+H:\WorkShop\MVC Based\Project\Rubel_Rana_Solution\Rubel_Rana_1249804\bin\System.Web.Razor.xml
+H:\WorkShop\MVC Based\Project\Rubel_Rana_Solution\Rubel_Rana_1249804\bin\System.Web.WebPages.xml
+H:\WorkShop\MVC Based\Project\Rubel_Rana_Solution\Rubel_Rana_1249804\bin\System.Web.WebPages.Deployment.xml
+H:\WorkShop\MVC Based\Project\Rubel_Rana_Solution\Rubel_Rana_1249804\bin\System.Web.WebPages.Razor.xml
+H:\WorkShop\MVC Based\Project\Rubel_Rana_Solution\Rubel_Rana_1249804\bin\Newtonsoft.Json.xml
+H:\WorkShop\MVC Based\Project\Rubel_Rana_Solution\Rubel_Rana_1249804\bin\Antlr3.Runtime.pdb
+H:\WorkShop\MVC Based\Project\Rubel_Rana_Solution\Rubel_Rana_1249804\bin\EntityFramework.xml
+H:\WorkShop\MVC Based\Project\Rubel_Rana_Solution\Rubel_Rana_1249804\bin\EntityFramework.SqlServer.xml
+H:\WorkShop\MVC Based\Project\Rubel_Rana_Solution\Rubel_Rana_1249804\bin\Microsoft.AspNet.Identity.Core.xml
+H:\WorkShop\MVC Based\Project\Rubel_Rana_Solution\Rubel_Rana_1249804\bin\Microsoft.AspNet.Identity.Owin.xml
+H:\WorkShop\MVC Based\Project\Rubel_Rana_Solution\Rubel_Rana_1249804\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+H:\WorkShop\MVC Based\Project\Rubel_Rana_Solution\Rubel_Rana_1249804\bin\Microsoft.Owin.xml
+H:\WorkShop\MVC Based\Project\Rubel_Rana_Solution\Rubel_Rana_1249804\bin\Microsoft.Owin.Host.SystemWeb.xml
+H:\WorkShop\MVC Based\Project\Rubel_Rana_Solution\Rubel_Rana_1249804\bin\Microsoft.Owin.Security.xml
+H:\WorkShop\MVC Based\Project\Rubel_Rana_Solution\Rubel_Rana_1249804\bin\Microsoft.Owin.Security.Facebook.xml
+H:\WorkShop\MVC Based\Project\Rubel_Rana_Solution\Rubel_Rana_1249804\bin\Microsoft.Owin.Security.Cookies.xml
+H:\WorkShop\MVC Based\Project\Rubel_Rana_Solution\Rubel_Rana_1249804\bin\Microsoft.Owin.Security.Google.xml
+H:\WorkShop\MVC Based\Project\Rubel_Rana_Solution\Rubel_Rana_1249804\bin\Microsoft.Owin.Security.Twitter.xml
+H:\WorkShop\MVC Based\Project\Rubel_Rana_Solution\Rubel_Rana_1249804\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+H:\WorkShop\MVC Based\Project\Rubel_Rana_Solution\Rubel_Rana_1249804\bin\Microsoft.Owin.Security.OAuth.xml
+H:\WorkShop\MVC Based\Project\Rubel_Rana_Solution\Rubel_Rana_1249804\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+H:\WorkShop\MVC Based\Project\Rubel_Rana_Solution\Rubel_Rana_1249804\obj\Debug\Rubel_Rana_1249804.csprojAssemblyReference.cache
+H:\WorkShop\MVC Based\Project\Rubel_Rana_Solution\Rubel_Rana_1249804\obj\Debug\Rubel_Rana_1249804.csproj.CoreCompileInputs.cache
+H:\WorkShop\MVC Based\Project\Rubel_Rana_Solution\Rubel_Rana_1249804\obj\Debug\Rubel_Rana_1249804.csproj.CopyComplete
+H:\WorkShop\MVC Based\Project\Rubel_Rana_Solution\Rubel_Rana_1249804\obj\Debug\Rubel_Rana_1249804.dll
+H:\WorkShop\MVC Based\Project\Rubel_Rana_Solution\Rubel_Rana_1249804\obj\Debug\Rubel_Rana_1249804.pdb
+D:\ESADR40\Module 09\Projects\Rubel_Rana_Solution\Rubel_Rana_1249804\bin\Rubel_Rana_1249804.dll.config
+D:\ESADR40\Module 09\Projects\Rubel_Rana_Solution\Rubel_Rana_1249804\bin\Rubel_Rana_1249804.dll
+D:\ESADR40\Module 09\Projects\Rubel_Rana_Solution\Rubel_Rana_1249804\bin\Rubel_Rana_1249804.pdb
+D:\ESADR40\Module 09\Projects\Rubel_Rana_Solution\Rubel_Rana_1249804\bin\roslyn\csc.exe
+D:\ESADR40\Module 09\Projects\Rubel_Rana_Solution\Rubel_Rana_1249804\bin\roslyn\csc.exe.config
+D:\ESADR40\Module 09\Projects\Rubel_Rana_Solution\Rubel_Rana_1249804\bin\roslyn\csc.rsp
+D:\ESADR40\Module 09\Projects\Rubel_Rana_Solution\Rubel_Rana_1249804\bin\roslyn\csi.exe
+D:\ESADR40\Module 09\Projects\Rubel_Rana_Solution\Rubel_Rana_1249804\bin\roslyn\csi.exe.config
+D:\ESADR40\Module 09\Projects\Rubel_Rana_Solution\Rubel_Rana_1249804\bin\roslyn\csi.rsp
+D:\ESADR40\Module 09\Projects\Rubel_Rana_Solution\Rubel_Rana_1249804\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\ESADR40\Module 09\Projects\Rubel_Rana_Solution\Rubel_Rana_1249804\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\ESADR40\Module 09\Projects\Rubel_Rana_Solution\Rubel_Rana_1249804\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\ESADR40\Module 09\Projects\Rubel_Rana_Solution\Rubel_Rana_1249804\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\ESADR40\Module 09\Projects\Rubel_Rana_Solution\Rubel_Rana_1249804\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\ESADR40\Module 09\Projects\Rubel_Rana_Solution\Rubel_Rana_1249804\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\ESADR40\Module 09\Projects\Rubel_Rana_Solution\Rubel_Rana_1249804\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\ESADR40\Module 09\Projects\Rubel_Rana_Solution\Rubel_Rana_1249804\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\ESADR40\Module 09\Projects\Rubel_Rana_Solution\Rubel_Rana_1249804\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\ESADR40\Module 09\Projects\Rubel_Rana_Solution\Rubel_Rana_1249804\bin\roslyn\Microsoft.Managed.Core.targets
+D:\ESADR40\Module 09\Projects\Rubel_Rana_Solution\Rubel_Rana_1249804\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\ESADR40\Module 09\Projects\Rubel_Rana_Solution\Rubel_Rana_1249804\bin\roslyn\System.AppContext.dll
+D:\ESADR40\Module 09\Projects\Rubel_Rana_Solution\Rubel_Rana_1249804\bin\roslyn\System.Collections.Immutable.dll
+D:\ESADR40\Module 09\Projects\Rubel_Rana_Solution\Rubel_Rana_1249804\bin\roslyn\System.Console.dll
+D:\ESADR40\Module 09\Projects\Rubel_Rana_Solution\Rubel_Rana_1249804\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\ESADR40\Module 09\Projects\Rubel_Rana_Solution\Rubel_Rana_1249804\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\ESADR40\Module 09\Projects\Rubel_Rana_Solution\Rubel_Rana_1249804\bin\roslyn\System.IO.Compression.dll
+D:\ESADR40\Module 09\Projects\Rubel_Rana_Solution\Rubel_Rana_1249804\bin\roslyn\System.IO.FileSystem.dll
+D:\ESADR40\Module 09\Projects\Rubel_Rana_Solution\Rubel_Rana_1249804\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\ESADR40\Module 09\Projects\Rubel_Rana_Solution\Rubel_Rana_1249804\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\ESADR40\Module 09\Projects\Rubel_Rana_Solution\Rubel_Rana_1249804\bin\roslyn\System.IO.Pipes.dll
+D:\ESADR40\Module 09\Projects\Rubel_Rana_Solution\Rubel_Rana_1249804\bin\roslyn\System.Reflection.Metadata.dll
+D:\ESADR40\Module 09\Projects\Rubel_Rana_Solution\Rubel_Rana_1249804\bin\roslyn\System.Security.AccessControl.dll
+D:\ESADR40\Module 09\Projects\Rubel_Rana_Solution\Rubel_Rana_1249804\bin\roslyn\System.Security.Claims.dll
+D:\ESADR40\Module 09\Projects\Rubel_Rana_Solution\Rubel_Rana_1249804\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\ESADR40\Module 09\Projects\Rubel_Rana_Solution\Rubel_Rana_1249804\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\ESADR40\Module 09\Projects\Rubel_Rana_Solution\Rubel_Rana_1249804\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\ESADR40\Module 09\Projects\Rubel_Rana_Solution\Rubel_Rana_1249804\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\ESADR40\Module 09\Projects\Rubel_Rana_Solution\Rubel_Rana_1249804\bin\roslyn\System.Security.Principal.Windows.dll
+D:\ESADR40\Module 09\Projects\Rubel_Rana_Solution\Rubel_Rana_1249804\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\ESADR40\Module 09\Projects\Rubel_Rana_Solution\Rubel_Rana_1249804\bin\roslyn\System.ValueTuple.dll
+D:\ESADR40\Module 09\Projects\Rubel_Rana_Solution\Rubel_Rana_1249804\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\ESADR40\Module 09\Projects\Rubel_Rana_Solution\Rubel_Rana_1249804\bin\roslyn\System.Xml.XmlDocument.dll
+D:\ESADR40\Module 09\Projects\Rubel_Rana_Solution\Rubel_Rana_1249804\bin\roslyn\System.Xml.XPath.dll
+D:\ESADR40\Module 09\Projects\Rubel_Rana_Solution\Rubel_Rana_1249804\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\ESADR40\Module 09\Projects\Rubel_Rana_Solution\Rubel_Rana_1249804\bin\roslyn\vbc.exe
+D:\ESADR40\Module 09\Projects\Rubel_Rana_Solution\Rubel_Rana_1249804\bin\roslyn\vbc.exe.config
+D:\ESADR40\Module 09\Projects\Rubel_Rana_Solution\Rubel_Rana_1249804\bin\roslyn\vbc.rsp
+D:\ESADR40\Module 09\Projects\Rubel_Rana_Solution\Rubel_Rana_1249804\bin\roslyn\VBCSCompiler.exe
+D:\ESADR40\Module 09\Projects\Rubel_Rana_Solution\Rubel_Rana_1249804\bin\roslyn\VBCSCompiler.exe.config
+D:\ESADR40\Module 09\Projects\Rubel_Rana_Solution\Rubel_Rana_1249804\bin\Antlr3.Runtime.dll
+D:\ESADR40\Module 09\Projects\Rubel_Rana_Solution\Rubel_Rana_1249804\bin\EntityFramework.dll
+D:\ESADR40\Module 09\Projects\Rubel_Rana_Solution\Rubel_Rana_1249804\bin\EntityFramework.SqlServer.dll
+D:\ESADR40\Module 09\Projects\Rubel_Rana_Solution\Rubel_Rana_1249804\bin\Microsoft.AspNet.Identity.Core.dll
+D:\ESADR40\Module 09\Projects\Rubel_Rana_Solution\Rubel_Rana_1249804\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\ESADR40\Module 09\Projects\Rubel_Rana_Solution\Rubel_Rana_1249804\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\ESADR40\Module 09\Projects\Rubel_Rana_Solution\Rubel_Rana_1249804\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\ESADR40\Module 09\Projects\Rubel_Rana_Solution\Rubel_Rana_1249804\bin\Microsoft.Owin.dll
+D:\ESADR40\Module 09\Projects\Rubel_Rana_Solution\Rubel_Rana_1249804\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\ESADR40\Module 09\Projects\Rubel_Rana_Solution\Rubel_Rana_1249804\bin\Microsoft.Owin.Security.Cookies.dll
+D:\ESADR40\Module 09\Projects\Rubel_Rana_Solution\Rubel_Rana_1249804\bin\Microsoft.Owin.Security.dll
+D:\ESADR40\Module 09\Projects\Rubel_Rana_Solution\Rubel_Rana_1249804\bin\Microsoft.Owin.Security.Facebook.dll
+D:\ESADR40\Module 09\Projects\Rubel_Rana_Solution\Rubel_Rana_1249804\bin\Microsoft.Owin.Security.Google.dll
+D:\ESADR40\Module 09\Projects\Rubel_Rana_Solution\Rubel_Rana_1249804\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\ESADR40\Module 09\Projects\Rubel_Rana_Solution\Rubel_Rana_1249804\bin\Microsoft.Owin.Security.OAuth.dll
+D:\ESADR40\Module 09\Projects\Rubel_Rana_Solution\Rubel_Rana_1249804\bin\Microsoft.Owin.Security.Twitter.dll
+D:\ESADR40\Module 09\Projects\Rubel_Rana_Solution\Rubel_Rana_1249804\bin\Microsoft.Web.Infrastructure.dll
+D:\ESADR40\Module 09\Projects\Rubel_Rana_Solution\Rubel_Rana_1249804\bin\Newtonsoft.Json.dll
+D:\ESADR40\Module 09\Projects\Rubel_Rana_Solution\Rubel_Rana_1249804\bin\Owin.dll
+D:\ESADR40\Module 09\Projects\Rubel_Rana_Solution\Rubel_Rana_1249804\bin\PagedList.dll
+D:\ESADR40\Module 09\Projects\Rubel_Rana_Solution\Rubel_Rana_1249804\bin\PagedList.Mvc.dll
+D:\ESADR40\Module 09\Projects\Rubel_Rana_Solution\Rubel_Rana_1249804\bin\System.Web.Helpers.dll
+D:\ESADR40\Module 09\Projects\Rubel_Rana_Solution\Rubel_Rana_1249804\bin\System.Web.Mvc.dll
+D:\ESADR40\Module 09\Projects\Rubel_Rana_Solution\Rubel_Rana_1249804\bin\System.Web.Optimization.dll
+D:\ESADR40\Module 09\Projects\Rubel_Rana_Solution\Rubel_Rana_1249804\bin\System.Web.Razor.dll
+D:\ESADR40\Module 09\Projects\Rubel_Rana_Solution\Rubel_Rana_1249804\bin\System.Web.WebPages.Deployment.dll
+D:\ESADR40\Module 09\Projects\Rubel_Rana_Solution\Rubel_Rana_1249804\bin\System.Web.WebPages.dll
+D:\ESADR40\Module 09\Projects\Rubel_Rana_Solution\Rubel_Rana_1249804\bin\System.Web.WebPages.Razor.dll
+D:\ESADR40\Module 09\Projects\Rubel_Rana_Solution\Rubel_Rana_1249804\bin\WebGrease.dll
+D:\ESADR40\Module 09\Projects\Rubel_Rana_Solution\Rubel_Rana_1249804\bin\PagedList.xml
+D:\ESADR40\Module 09\Projects\Rubel_Rana_Solution\Rubel_Rana_1249804\bin\PagedList.Mvc.xml
+D:\ESADR40\Module 09\Projects\Rubel_Rana_Solution\Rubel_Rana_1249804\bin\System.Web.Helpers.xml
+D:\ESADR40\Module 09\Projects\Rubel_Rana_Solution\Rubel_Rana_1249804\bin\System.Web.Mvc.xml
+D:\ESADR40\Module 09\Projects\Rubel_Rana_Solution\Rubel_Rana_1249804\bin\System.Web.Optimization.xml
+D:\ESADR40\Module 09\Projects\Rubel_Rana_Solution\Rubel_Rana_1249804\bin\System.Web.Razor.xml
+D:\ESADR40\Module 09\Projects\Rubel_Rana_Solution\Rubel_Rana_1249804\bin\System.Web.WebPages.xml
+D:\ESADR40\Module 09\Projects\Rubel_Rana_Solution\Rubel_Rana_1249804\bin\System.Web.WebPages.Deployment.xml
+D:\ESADR40\Module 09\Projects\Rubel_Rana_Solution\Rubel_Rana_1249804\bin\System.Web.WebPages.Razor.xml
+D:\ESADR40\Module 09\Projects\Rubel_Rana_Solution\Rubel_Rana_1249804\bin\Newtonsoft.Json.xml
+D:\ESADR40\Module 09\Projects\Rubel_Rana_Solution\Rubel_Rana_1249804\bin\Antlr3.Runtime.pdb
+D:\ESADR40\Module 09\Projects\Rubel_Rana_Solution\Rubel_Rana_1249804\bin\EntityFramework.xml
+D:\ESADR40\Module 09\Projects\Rubel_Rana_Solution\Rubel_Rana_1249804\bin\EntityFramework.SqlServer.xml
+D:\ESADR40\Module 09\Projects\Rubel_Rana_Solution\Rubel_Rana_1249804\bin\Microsoft.AspNet.Identity.Core.xml
+D:\ESADR40\Module 09\Projects\Rubel_Rana_Solution\Rubel_Rana_1249804\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\ESADR40\Module 09\Projects\Rubel_Rana_Solution\Rubel_Rana_1249804\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\ESADR40\Module 09\Projects\Rubel_Rana_Solution\Rubel_Rana_1249804\bin\Microsoft.Owin.xml
+D:\ESADR40\Module 09\Projects\Rubel_Rana_Solution\Rubel_Rana_1249804\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\ESADR40\Module 09\Projects\Rubel_Rana_Solution\Rubel_Rana_1249804\bin\Microsoft.Owin.Security.xml
+D:\ESADR40\Module 09\Projects\Rubel_Rana_Solution\Rubel_Rana_1249804\bin\Microsoft.Owin.Security.Facebook.xml
+D:\ESADR40\Module 09\Projects\Rubel_Rana_Solution\Rubel_Rana_1249804\bin\Microsoft.Owin.Security.Cookies.xml
+D:\ESADR40\Module 09\Projects\Rubel_Rana_Solution\Rubel_Rana_1249804\bin\Microsoft.Owin.Security.Google.xml
+D:\ESADR40\Module 09\Projects\Rubel_Rana_Solution\Rubel_Rana_1249804\bin\Microsoft.Owin.Security.Twitter.xml
+D:\ESADR40\Module 09\Projects\Rubel_Rana_Solution\Rubel_Rana_1249804\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\ESADR40\Module 09\Projects\Rubel_Rana_Solution\Rubel_Rana_1249804\bin\Microsoft.Owin.Security.OAuth.xml
+D:\ESADR40\Module 09\Projects\Rubel_Rana_Solution\Rubel_Rana_1249804\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\ESADR40\Module 09\Projects\Rubel_Rana_Solution\Rubel_Rana_1249804\obj\Debug\Rubel_Rana_1249804.csprojAssemblyReference.cache
+D:\ESADR40\Module 09\Projects\Rubel_Rana_Solution\Rubel_Rana_1249804\obj\Debug\Rubel_Rana_1249804.csproj.CoreCompileInputs.cache
+D:\ESADR40\Module 09\Projects\Rubel_Rana_Solution\Rubel_Rana_1249804\obj\Debug\Rubel_Rana_1249804.csproj.CopyComplete
+D:\ESADR40\Module 09\Projects\Rubel_Rana_Solution\Rubel_Rana_1249804\obj\Debug\Rubel_Rana_1249804.dll
+D:\ESADR40\Module 09\Projects\Rubel_Rana_Solution\Rubel_Rana_1249804\obj\Debug\Rubel_Rana_1249804.pdb
+D:\ESADR40\Module 09\Projects\Rubel_Rana_Solution\Rubel_Rana_1249804\bin\itextsharp.dll
+D:\ESADR40\Module 09\Projects\Rubel_Rana_Solution\Rubel_Rana_1249804\bin\itextsharp.xmlworker.dll
+D:\ESADR40\Module 09\Projects\Rubel_Rana_Solution\Rubel_Rana_1249804\bin\itextsharp.xml
+H:\Project\All Projects\All Zip Project\08_Projects(MVC)\Ex_08_Projects\10_Rubel_Rana_Solution\Rubel_Rana_1249804\bin\Rubel_Rana_1249804.dll.config
+H:\Project\All Projects\All Zip Project\08_Projects(MVC)\Ex_08_Projects\10_Rubel_Rana_Solution\Rubel_Rana_1249804\bin\Rubel_Rana_1249804.dll
+H:\Project\All Projects\All Zip Project\08_Projects(MVC)\Ex_08_Projects\10_Rubel_Rana_Solution\Rubel_Rana_1249804\bin\Rubel_Rana_1249804.pdb
+H:\Project\All Projects\All Zip Project\08_Projects(MVC)\Ex_08_Projects\10_Rubel_Rana_Solution\Rubel_Rana_1249804\bin\roslyn\csc.exe
+H:\Project\All Projects\All Zip Project\08_Projects(MVC)\Ex_08_Projects\10_Rubel_Rana_Solution\Rubel_Rana_1249804\bin\roslyn\csc.exe.config
+H:\Project\All Projects\All Zip Project\08_Projects(MVC)\Ex_08_Projects\10_Rubel_Rana_Solution\Rubel_Rana_1249804\bin\roslyn\csc.rsp
+H:\Project\All Projects\All Zip Project\08_Projects(MVC)\Ex_08_Projects\10_Rubel_Rana_Solution\Rubel_Rana_1249804\bin\roslyn\csi.exe
+H:\Project\All Projects\All Zip Project\08_Projects(MVC)\Ex_08_Projects\10_Rubel_Rana_Solution\Rubel_Rana_1249804\bin\roslyn\csi.exe.config
+H:\Project\All Projects\All Zip Project\08_Projects(MVC)\Ex_08_Projects\10_Rubel_Rana_Solution\Rubel_Rana_1249804\bin\roslyn\csi.rsp
+H:\Project\All Projects\All Zip Project\08_Projects(MVC)\Ex_08_Projects\10_Rubel_Rana_Solution\Rubel_Rana_1249804\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+H:\Project\All Projects\All Zip Project\08_Projects(MVC)\Ex_08_Projects\10_Rubel_Rana_Solution\Rubel_Rana_1249804\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+H:\Project\All Projects\All Zip Project\08_Projects(MVC)\Ex_08_Projects\10_Rubel_Rana_Solution\Rubel_Rana_1249804\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+H:\Project\All Projects\All Zip Project\08_Projects(MVC)\Ex_08_Projects\10_Rubel_Rana_Solution\Rubel_Rana_1249804\bin\roslyn\Microsoft.CodeAnalysis.dll
+H:\Project\All Projects\All Zip Project\08_Projects(MVC)\Ex_08_Projects\10_Rubel_Rana_Solution\Rubel_Rana_1249804\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+H:\Project\All Projects\All Zip Project\08_Projects(MVC)\Ex_08_Projects\10_Rubel_Rana_Solution\Rubel_Rana_1249804\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+H:\Project\All Projects\All Zip Project\08_Projects(MVC)\Ex_08_Projects\10_Rubel_Rana_Solution\Rubel_Rana_1249804\bin\roslyn\Microsoft.CSharp.Core.targets
+H:\Project\All Projects\All Zip Project\08_Projects(MVC)\Ex_08_Projects\10_Rubel_Rana_Solution\Rubel_Rana_1249804\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+H:\Project\All Projects\All Zip Project\08_Projects(MVC)\Ex_08_Projects\10_Rubel_Rana_Solution\Rubel_Rana_1249804\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+H:\Project\All Projects\All Zip Project\08_Projects(MVC)\Ex_08_Projects\10_Rubel_Rana_Solution\Rubel_Rana_1249804\bin\roslyn\Microsoft.Managed.Core.targets
+H:\Project\All Projects\All Zip Project\08_Projects(MVC)\Ex_08_Projects\10_Rubel_Rana_Solution\Rubel_Rana_1249804\bin\roslyn\Microsoft.VisualBasic.Core.targets
+H:\Project\All Projects\All Zip Project\08_Projects(MVC)\Ex_08_Projects\10_Rubel_Rana_Solution\Rubel_Rana_1249804\bin\roslyn\System.AppContext.dll
+H:\Project\All Projects\All Zip Project\08_Projects(MVC)\Ex_08_Projects\10_Rubel_Rana_Solution\Rubel_Rana_1249804\bin\roslyn\System.Collections.Immutable.dll
+H:\Project\All Projects\All Zip Project\08_Projects(MVC)\Ex_08_Projects\10_Rubel_Rana_Solution\Rubel_Rana_1249804\bin\roslyn\System.Console.dll
+H:\Project\All Projects\All Zip Project\08_Projects(MVC)\Ex_08_Projects\10_Rubel_Rana_Solution\Rubel_Rana_1249804\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+H:\Project\All Projects\All Zip Project\08_Projects(MVC)\Ex_08_Projects\10_Rubel_Rana_Solution\Rubel_Rana_1249804\bin\roslyn\System.Diagnostics.StackTrace.dll
+H:\Project\All Projects\All Zip Project\08_Projects(MVC)\Ex_08_Projects\10_Rubel_Rana_Solution\Rubel_Rana_1249804\bin\roslyn\System.IO.Compression.dll
+H:\Project\All Projects\All Zip Project\08_Projects(MVC)\Ex_08_Projects\10_Rubel_Rana_Solution\Rubel_Rana_1249804\bin\roslyn\System.IO.FileSystem.dll
+H:\Project\All Projects\All Zip Project\08_Projects(MVC)\Ex_08_Projects\10_Rubel_Rana_Solution\Rubel_Rana_1249804\bin\roslyn\System.IO.FileSystem.Primitives.dll
+H:\Project\All Projects\All Zip Project\08_Projects(MVC)\Ex_08_Projects\10_Rubel_Rana_Solution\Rubel_Rana_1249804\bin\roslyn\System.IO.Pipes.AccessControl.dll
+H:\Project\All Projects\All Zip Project\08_Projects(MVC)\Ex_08_Projects\10_Rubel_Rana_Solution\Rubel_Rana_1249804\bin\roslyn\System.IO.Pipes.dll
+H:\Project\All Projects\All Zip Project\08_Projects(MVC)\Ex_08_Projects\10_Rubel_Rana_Solution\Rubel_Rana_1249804\bin\roslyn\System.Reflection.Metadata.dll
+H:\Project\All Projects\All Zip Project\08_Projects(MVC)\Ex_08_Projects\10_Rubel_Rana_Solution\Rubel_Rana_1249804\bin\roslyn\System.Security.AccessControl.dll
+H:\Project\All Projects\All Zip Project\08_Projects(MVC)\Ex_08_Projects\10_Rubel_Rana_Solution\Rubel_Rana_1249804\bin\roslyn\System.Security.Claims.dll
+H:\Project\All Projects\All Zip Project\08_Projects(MVC)\Ex_08_Projects\10_Rubel_Rana_Solution\Rubel_Rana_1249804\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+H:\Project\All Projects\All Zip Project\08_Projects(MVC)\Ex_08_Projects\10_Rubel_Rana_Solution\Rubel_Rana_1249804\bin\roslyn\System.Security.Cryptography.Encoding.dll
+H:\Project\All Projects\All Zip Project\08_Projects(MVC)\Ex_08_Projects\10_Rubel_Rana_Solution\Rubel_Rana_1249804\bin\roslyn\System.Security.Cryptography.Primitives.dll
+H:\Project\All Projects\All Zip Project\08_Projects(MVC)\Ex_08_Projects\10_Rubel_Rana_Solution\Rubel_Rana_1249804\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+H:\Project\All Projects\All Zip Project\08_Projects(MVC)\Ex_08_Projects\10_Rubel_Rana_Solution\Rubel_Rana_1249804\bin\roslyn\System.Security.Principal.Windows.dll
+H:\Project\All Projects\All Zip Project\08_Projects(MVC)\Ex_08_Projects\10_Rubel_Rana_Solution\Rubel_Rana_1249804\bin\roslyn\System.Text.Encoding.CodePages.dll
+H:\Project\All Projects\All Zip Project\08_Projects(MVC)\Ex_08_Projects\10_Rubel_Rana_Solution\Rubel_Rana_1249804\bin\roslyn\System.ValueTuple.dll
+H:\Project\All Projects\All Zip Project\08_Projects(MVC)\Ex_08_Projects\10_Rubel_Rana_Solution\Rubel_Rana_1249804\bin\roslyn\System.Xml.ReaderWriter.dll
+H:\Project\All Projects\All Zip Project\08_Projects(MVC)\Ex_08_Projects\10_Rubel_Rana_Solution\Rubel_Rana_1249804\bin\roslyn\System.Xml.XmlDocument.dll
+H:\Project\All Projects\All Zip Project\08_Projects(MVC)\Ex_08_Projects\10_Rubel_Rana_Solution\Rubel_Rana_1249804\bin\roslyn\System.Xml.XPath.dll
+H:\Project\All Projects\All Zip Project\08_Projects(MVC)\Ex_08_Projects\10_Rubel_Rana_Solution\Rubel_Rana_1249804\bin\roslyn\System.Xml.XPath.XDocument.dll
+H:\Project\All Projects\All Zip Project\08_Projects(MVC)\Ex_08_Projects\10_Rubel_Rana_Solution\Rubel_Rana_1249804\bin\roslyn\vbc.exe
+H:\Project\All Projects\All Zip Project\08_Projects(MVC)\Ex_08_Projects\10_Rubel_Rana_Solution\Rubel_Rana_1249804\bin\roslyn\vbc.exe.config
+H:\Project\All Projects\All Zip Project\08_Projects(MVC)\Ex_08_Projects\10_Rubel_Rana_Solution\Rubel_Rana_1249804\bin\roslyn\vbc.rsp
+H:\Project\All Projects\All Zip Project\08_Projects(MVC)\Ex_08_Projects\10_Rubel_Rana_Solution\Rubel_Rana_1249804\bin\roslyn\VBCSCompiler.exe
+H:\Project\All Projects\All Zip Project\08_Projects(MVC)\Ex_08_Projects\10_Rubel_Rana_Solution\Rubel_Rana_1249804\bin\roslyn\VBCSCompiler.exe.config
+H:\Project\All Projects\All Zip Project\08_Projects(MVC)\Ex_08_Projects\10_Rubel_Rana_Solution\Rubel_Rana_1249804\bin\Antlr3.Runtime.dll
+H:\Project\All Projects\All Zip Project\08_Projects(MVC)\Ex_08_Projects\10_Rubel_Rana_Solution\Rubel_Rana_1249804\bin\EntityFramework.dll
+H:\Project\All Projects\All Zip Project\08_Projects(MVC)\Ex_08_Projects\10_Rubel_Rana_Solution\Rubel_Rana_1249804\bin\EntityFramework.SqlServer.dll
+H:\Project\All Projects\All Zip Project\08_Projects(MVC)\Ex_08_Projects\10_Rubel_Rana_Solution\Rubel_Rana_1249804\bin\itextsharp.dll
+H:\Project\All Projects\All Zip Project\08_Projects(MVC)\Ex_08_Projects\10_Rubel_Rana_Solution\Rubel_Rana_1249804\bin\itextsharp.xmlworker.dll
+H:\Project\All Projects\All Zip Project\08_Projects(MVC)\Ex_08_Projects\10_Rubel_Rana_Solution\Rubel_Rana_1249804\bin\Microsoft.AspNet.Identity.Core.dll
+H:\Project\All Projects\All Zip Project\08_Projects(MVC)\Ex_08_Projects\10_Rubel_Rana_Solution\Rubel_Rana_1249804\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+H:\Project\All Projects\All Zip Project\08_Projects(MVC)\Ex_08_Projects\10_Rubel_Rana_Solution\Rubel_Rana_1249804\bin\Microsoft.AspNet.Identity.Owin.dll
+H:\Project\All Projects\All Zip Project\08_Projects(MVC)\Ex_08_Projects\10_Rubel_Rana_Solution\Rubel_Rana_1249804\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+H:\Project\All Projects\All Zip Project\08_Projects(MVC)\Ex_08_Projects\10_Rubel_Rana_Solution\Rubel_Rana_1249804\bin\Microsoft.Owin.dll
+H:\Project\All Projects\All Zip Project\08_Projects(MVC)\Ex_08_Projects\10_Rubel_Rana_Solution\Rubel_Rana_1249804\bin\Microsoft.Owin.Host.SystemWeb.dll
+H:\Project\All Projects\All Zip Project\08_Projects(MVC)\Ex_08_Projects\10_Rubel_Rana_Solution\Rubel_Rana_1249804\bin\Microsoft.Owin.Security.Cookies.dll
+H:\Project\All Projects\All Zip Project\08_Projects(MVC)\Ex_08_Projects\10_Rubel_Rana_Solution\Rubel_Rana_1249804\bin\Microsoft.Owin.Security.dll
+H:\Project\All Projects\All Zip Project\08_Projects(MVC)\Ex_08_Projects\10_Rubel_Rana_Solution\Rubel_Rana_1249804\bin\Microsoft.Owin.Security.Facebook.dll
+H:\Project\All Projects\All Zip Project\08_Projects(MVC)\Ex_08_Projects\10_Rubel_Rana_Solution\Rubel_Rana_1249804\bin\Microsoft.Owin.Security.Google.dll
+H:\Project\All Projects\All Zip Project\08_Projects(MVC)\Ex_08_Projects\10_Rubel_Rana_Solution\Rubel_Rana_1249804\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+H:\Project\All Projects\All Zip Project\08_Projects(MVC)\Ex_08_Projects\10_Rubel_Rana_Solution\Rubel_Rana_1249804\bin\Microsoft.Owin.Security.OAuth.dll
+H:\Project\All Projects\All Zip Project\08_Projects(MVC)\Ex_08_Projects\10_Rubel_Rana_Solution\Rubel_Rana_1249804\bin\Microsoft.Owin.Security.Twitter.dll
+H:\Project\All Projects\All Zip Project\08_Projects(MVC)\Ex_08_Projects\10_Rubel_Rana_Solution\Rubel_Rana_1249804\bin\Microsoft.Web.Infrastructure.dll
+H:\Project\All Projects\All Zip Project\08_Projects(MVC)\Ex_08_Projects\10_Rubel_Rana_Solution\Rubel_Rana_1249804\bin\Newtonsoft.Json.dll
+H:\Project\All Projects\All Zip Project\08_Projects(MVC)\Ex_08_Projects\10_Rubel_Rana_Solution\Rubel_Rana_1249804\bin\Owin.dll
+H:\Project\All Projects\All Zip Project\08_Projects(MVC)\Ex_08_Projects\10_Rubel_Rana_Solution\Rubel_Rana_1249804\bin\PagedList.dll
+H:\Project\All Projects\All Zip Project\08_Projects(MVC)\Ex_08_Projects\10_Rubel_Rana_Solution\Rubel_Rana_1249804\bin\PagedList.Mvc.dll
+H:\Project\All Projects\All Zip Project\08_Projects(MVC)\Ex_08_Projects\10_Rubel_Rana_Solution\Rubel_Rana_1249804\bin\System.Web.Helpers.dll
+H:\Project\All Projects\All Zip Project\08_Projects(MVC)\Ex_08_Projects\10_Rubel_Rana_Solution\Rubel_Rana_1249804\bin\System.Web.Mvc.dll
+H:\Project\All Projects\All Zip Project\08_Projects(MVC)\Ex_08_Projects\10_Rubel_Rana_Solution\Rubel_Rana_1249804\bin\System.Web.Optimization.dll
+H:\Project\All Projects\All Zip Project\08_Projects(MVC)\Ex_08_Projects\10_Rubel_Rana_Solution\Rubel_Rana_1249804\bin\System.Web.Razor.dll
+H:\Project\All Projects\All Zip Project\08_Projects(MVC)\Ex_08_Projects\10_Rubel_Rana_Solution\Rubel_Rana_1249804\bin\System.Web.WebPages.Deployment.dll
+H:\Project\All Projects\All Zip Project\08_Projects(MVC)\Ex_08_Projects\10_Rubel_Rana_Solution\Rubel_Rana_1249804\bin\System.Web.WebPages.dll
+H:\Project\All Projects\All Zip Project\08_Projects(MVC)\Ex_08_Projects\10_Rubel_Rana_Solution\Rubel_Rana_1249804\bin\System.Web.WebPages.Razor.dll
+H:\Project\All Projects\All Zip Project\08_Projects(MVC)\Ex_08_Projects\10_Rubel_Rana_Solution\Rubel_Rana_1249804\bin\WebGrease.dll
+H:\Project\All Projects\All Zip Project\08_Projects(MVC)\Ex_08_Projects\10_Rubel_Rana_Solution\Rubel_Rana_1249804\bin\itextsharp.xml
+H:\Project\All Projects\All Zip Project\08_Projects(MVC)\Ex_08_Projects\10_Rubel_Rana_Solution\Rubel_Rana_1249804\bin\PagedList.xml
+H:\Project\All Projects\All Zip Project\08_Projects(MVC)\Ex_08_Projects\10_Rubel_Rana_Solution\Rubel_Rana_1249804\bin\PagedList.Mvc.xml
+H:\Project\All Projects\All Zip Project\08_Projects(MVC)\Ex_08_Projects\10_Rubel_Rana_Solution\Rubel_Rana_1249804\bin\System.Web.Helpers.xml
+H:\Project\All Projects\All Zip Project\08_Projects(MVC)\Ex_08_Projects\10_Rubel_Rana_Solution\Rubel_Rana_1249804\bin\System.Web.Mvc.xml
+H:\Project\All Projects\All Zip Project\08_Projects(MVC)\Ex_08_Projects\10_Rubel_Rana_Solution\Rubel_Rana_1249804\bin\System.Web.Optimization.xml
+H:\Project\All Projects\All Zip Project\08_Projects(MVC)\Ex_08_Projects\10_Rubel_Rana_Solution\Rubel_Rana_1249804\bin\System.Web.Razor.xml
+H:\Project\All Projects\All Zip Project\08_Projects(MVC)\Ex_08_Projects\10_Rubel_Rana_Solution\Rubel_Rana_1249804\bin\System.Web.WebPages.xml
+H:\Project\All Projects\All Zip Project\08_Projects(MVC)\Ex_08_Projects\10_Rubel_Rana_Solution\Rubel_Rana_1249804\bin\System.Web.WebPages.Deployment.xml
+H:\Project\All Projects\All Zip Project\08_Projects(MVC)\Ex_08_Projects\10_Rubel_Rana_Solution\Rubel_Rana_1249804\bin\System.Web.WebPages.Razor.xml
+H:\Project\All Projects\All Zip Project\08_Projects(MVC)\Ex_08_Projects\10_Rubel_Rana_Solution\Rubel_Rana_1249804\bin\Newtonsoft.Json.xml
+H:\Project\All Projects\All Zip Project\08_Projects(MVC)\Ex_08_Projects\10_Rubel_Rana_Solution\Rubel_Rana_1249804\bin\Antlr3.Runtime.pdb
+H:\Project\All Projects\All Zip Project\08_Projects(MVC)\Ex_08_Projects\10_Rubel_Rana_Solution\Rubel_Rana_1249804\bin\EntityFramework.xml
+H:\Project\All Projects\All Zip Project\08_Projects(MVC)\Ex_08_Projects\10_Rubel_Rana_Solution\Rubel_Rana_1249804\bin\EntityFramework.SqlServer.xml
+H:\Project\All Projects\All Zip Project\08_Projects(MVC)\Ex_08_Projects\10_Rubel_Rana_Solution\Rubel_Rana_1249804\bin\Microsoft.AspNet.Identity.Core.xml
+H:\Project\All Projects\All Zip Project\08_Projects(MVC)\Ex_08_Projects\10_Rubel_Rana_Solution\Rubel_Rana_1249804\bin\Microsoft.AspNet.Identity.Owin.xml
+H:\Project\All Projects\All Zip Project\08_Projects(MVC)\Ex_08_Projects\10_Rubel_Rana_Solution\Rubel_Rana_1249804\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+H:\Project\All Projects\All Zip Project\08_Projects(MVC)\Ex_08_Projects\10_Rubel_Rana_Solution\Rubel_Rana_1249804\bin\Microsoft.Owin.xml
+H:\Project\All Projects\All Zip Project\08_Projects(MVC)\Ex_08_Projects\10_Rubel_Rana_Solution\Rubel_Rana_1249804\bin\Microsoft.Owin.Host.SystemWeb.xml
+H:\Project\All Projects\All Zip Project\08_Projects(MVC)\Ex_08_Projects\10_Rubel_Rana_Solution\Rubel_Rana_1249804\bin\Microsoft.Owin.Security.xml
+H:\Project\All Projects\All Zip Project\08_Projects(MVC)\Ex_08_Projects\10_Rubel_Rana_Solution\Rubel_Rana_1249804\bin\Microsoft.Owin.Security.Facebook.xml
+H:\Project\All Projects\All Zip Project\08_Projects(MVC)\Ex_08_Projects\10_Rubel_Rana_Solution\Rubel_Rana_1249804\bin\Microsoft.Owin.Security.Cookies.xml
+H:\Project\All Projects\All Zip Project\08_Projects(MVC)\Ex_08_Projects\10_Rubel_Rana_Solution\Rubel_Rana_1249804\bin\Microsoft.Owin.Security.Google.xml
+H:\Project\All Projects\All Zip Project\08_Projects(MVC)\Ex_08_Projects\10_Rubel_Rana_Solution\Rubel_Rana_1249804\bin\Microsoft.Owin.Security.Twitter.xml
+H:\Project\All Projects\All Zip Project\08_Projects(MVC)\Ex_08_Projects\10_Rubel_Rana_Solution\Rubel_Rana_1249804\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+H:\Project\All Projects\All Zip Project\08_Projects(MVC)\Ex_08_Projects\10_Rubel_Rana_Solution\Rubel_Rana_1249804\bin\Microsoft.Owin.Security.OAuth.xml
+H:\Project\All Projects\All Zip Project\08_Projects(MVC)\Ex_08_Projects\10_Rubel_Rana_Solution\Rubel_Rana_1249804\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+H:\Project\All Projects\All Zip Project\08_Projects(MVC)\Ex_08_Projects\10_Rubel_Rana_Solution\Rubel_Rana_1249804\obj\Debug\Rubel_Rana_1249804.csproj.CoreCompileInputs.cache
+H:\Project\All Projects\All Zip Project\08_Projects(MVC)\Ex_08_Projects\10_Rubel_Rana_Solution\Rubel_Rana_1249804\obj\Debug\Rubel_Rana_1249804.csproj.CopyComplete
+H:\Project\All Projects\All Zip Project\08_Projects(MVC)\Ex_08_Projects\10_Rubel_Rana_Solution\Rubel_Rana_1249804\obj\Debug\Rubel_Rana_1249804.dll
+H:\Project\All Projects\All Zip Project\08_Projects(MVC)\Ex_08_Projects\10_Rubel_Rana_Solution\Rubel_Rana_1249804\obj\Debug\Rubel_Rana_1249804.pdb
+F:\My IsDB Projects\08_Projects(MVC)\Ex_08_Projects\10_Rubel_Rana_Solution\Rubel_Rana_1249804\bin\Rubel_Rana_1249804.dll.config
+F:\My IsDB Projects\08_Projects(MVC)\Ex_08_Projects\10_Rubel_Rana_Solution\Rubel_Rana_1249804\bin\Rubel_Rana_1249804.dll
+F:\My IsDB Projects\08_Projects(MVC)\Ex_08_Projects\10_Rubel_Rana_Solution\Rubel_Rana_1249804\bin\Rubel_Rana_1249804.pdb
+F:\My IsDB Projects\08_Projects(MVC)\Ex_08_Projects\10_Rubel_Rana_Solution\Rubel_Rana_1249804\bin\roslyn\csc.exe
+F:\My IsDB Projects\08_Projects(MVC)\Ex_08_Projects\10_Rubel_Rana_Solution\Rubel_Rana_1249804\bin\roslyn\csc.exe.config
+F:\My IsDB Projects\08_Projects(MVC)\Ex_08_Projects\10_Rubel_Rana_Solution\Rubel_Rana_1249804\bin\roslyn\csc.rsp
+F:\My IsDB Projects\08_Projects(MVC)\Ex_08_Projects\10_Rubel_Rana_Solution\Rubel_Rana_1249804\bin\roslyn\csi.exe
+F:\My IsDB Projects\08_Projects(MVC)\Ex_08_Projects\10_Rubel_Rana_Solution\Rubel_Rana_1249804\bin\roslyn\csi.exe.config
+F:\My IsDB Projects\08_Projects(MVC)\Ex_08_Projects\10_Rubel_Rana_Solution\Rubel_Rana_1249804\bin\roslyn\csi.rsp
+F:\My IsDB Projects\08_Projects(MVC)\Ex_08_Projects\10_Rubel_Rana_Solution\Rubel_Rana_1249804\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\My IsDB Projects\08_Projects(MVC)\Ex_08_Projects\10_Rubel_Rana_Solution\Rubel_Rana_1249804\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\My IsDB Projects\08_Projects(MVC)\Ex_08_Projects\10_Rubel_Rana_Solution\Rubel_Rana_1249804\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\My IsDB Projects\08_Projects(MVC)\Ex_08_Projects\10_Rubel_Rana_Solution\Rubel_Rana_1249804\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\My IsDB Projects\08_Projects(MVC)\Ex_08_Projects\10_Rubel_Rana_Solution\Rubel_Rana_1249804\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\My IsDB Projects\08_Projects(MVC)\Ex_08_Projects\10_Rubel_Rana_Solution\Rubel_Rana_1249804\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\My IsDB Projects\08_Projects(MVC)\Ex_08_Projects\10_Rubel_Rana_Solution\Rubel_Rana_1249804\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\My IsDB Projects\08_Projects(MVC)\Ex_08_Projects\10_Rubel_Rana_Solution\Rubel_Rana_1249804\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\My IsDB Projects\08_Projects(MVC)\Ex_08_Projects\10_Rubel_Rana_Solution\Rubel_Rana_1249804\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\My IsDB Projects\08_Projects(MVC)\Ex_08_Projects\10_Rubel_Rana_Solution\Rubel_Rana_1249804\bin\roslyn\Microsoft.Managed.Core.targets
+F:\My IsDB Projects\08_Projects(MVC)\Ex_08_Projects\10_Rubel_Rana_Solution\Rubel_Rana_1249804\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\My IsDB Projects\08_Projects(MVC)\Ex_08_Projects\10_Rubel_Rana_Solution\Rubel_Rana_1249804\bin\roslyn\System.AppContext.dll
+F:\My IsDB Projects\08_Projects(MVC)\Ex_08_Projects\10_Rubel_Rana_Solution\Rubel_Rana_1249804\bin\roslyn\System.Collections.Immutable.dll
+F:\My IsDB Projects\08_Projects(MVC)\Ex_08_Projects\10_Rubel_Rana_Solution\Rubel_Rana_1249804\bin\roslyn\System.Console.dll
+F:\My IsDB Projects\08_Projects(MVC)\Ex_08_Projects\10_Rubel_Rana_Solution\Rubel_Rana_1249804\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\My IsDB Projects\08_Projects(MVC)\Ex_08_Projects\10_Rubel_Rana_Solution\Rubel_Rana_1249804\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\My IsDB Projects\08_Projects(MVC)\Ex_08_Projects\10_Rubel_Rana_Solution\Rubel_Rana_1249804\bin\roslyn\System.IO.Compression.dll
+F:\My IsDB Projects\08_Projects(MVC)\Ex_08_Projects\10_Rubel_Rana_Solution\Rubel_Rana_1249804\bin\roslyn\System.IO.FileSystem.dll
+F:\My IsDB Projects\08_Projects(MVC)\Ex_08_Projects\10_Rubel_Rana_Solution\Rubel_Rana_1249804\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\My IsDB Projects\08_Projects(MVC)\Ex_08_Projects\10_Rubel_Rana_Solution\Rubel_Rana_1249804\bin\roslyn\System.IO.Pipes.AccessControl.dll
+F:\My IsDB Projects\08_Projects(MVC)\Ex_08_Projects\10_Rubel_Rana_Solution\Rubel_Rana_1249804\bin\roslyn\System.IO.Pipes.dll
+F:\My IsDB Projects\08_Projects(MVC)\Ex_08_Projects\10_Rubel_Rana_Solution\Rubel_Rana_1249804\bin\roslyn\System.Reflection.Metadata.dll
+F:\My IsDB Projects\08_Projects(MVC)\Ex_08_Projects\10_Rubel_Rana_Solution\Rubel_Rana_1249804\bin\roslyn\System.Security.AccessControl.dll
+F:\My IsDB Projects\08_Projects(MVC)\Ex_08_Projects\10_Rubel_Rana_Solution\Rubel_Rana_1249804\bin\roslyn\System.Security.Claims.dll
+F:\My IsDB Projects\08_Projects(MVC)\Ex_08_Projects\10_Rubel_Rana_Solution\Rubel_Rana_1249804\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\My IsDB Projects\08_Projects(MVC)\Ex_08_Projects\10_Rubel_Rana_Solution\Rubel_Rana_1249804\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\My IsDB Projects\08_Projects(MVC)\Ex_08_Projects\10_Rubel_Rana_Solution\Rubel_Rana_1249804\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\My IsDB Projects\08_Projects(MVC)\Ex_08_Projects\10_Rubel_Rana_Solution\Rubel_Rana_1249804\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\My IsDB Projects\08_Projects(MVC)\Ex_08_Projects\10_Rubel_Rana_Solution\Rubel_Rana_1249804\bin\roslyn\System.Security.Principal.Windows.dll
+F:\My IsDB Projects\08_Projects(MVC)\Ex_08_Projects\10_Rubel_Rana_Solution\Rubel_Rana_1249804\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\My IsDB Projects\08_Projects(MVC)\Ex_08_Projects\10_Rubel_Rana_Solution\Rubel_Rana_1249804\bin\roslyn\System.ValueTuple.dll
+F:\My IsDB Projects\08_Projects(MVC)\Ex_08_Projects\10_Rubel_Rana_Solution\Rubel_Rana_1249804\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\My IsDB Projects\08_Projects(MVC)\Ex_08_Projects\10_Rubel_Rana_Solution\Rubel_Rana_1249804\bin\roslyn\System.Xml.XmlDocument.dll
+F:\My IsDB Projects\08_Projects(MVC)\Ex_08_Projects\10_Rubel_Rana_Solution\Rubel_Rana_1249804\bin\roslyn\System.Xml.XPath.dll
+F:\My IsDB Projects\08_Projects(MVC)\Ex_08_Projects\10_Rubel_Rana_Solution\Rubel_Rana_1249804\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\My IsDB Projects\08_Projects(MVC)\Ex_08_Projects\10_Rubel_Rana_Solution\Rubel_Rana_1249804\bin\roslyn\vbc.exe
+F:\My IsDB Projects\08_Projects(MVC)\Ex_08_Projects\10_Rubel_Rana_Solution\Rubel_Rana_1249804\bin\roslyn\vbc.exe.config
+F:\My IsDB Projects\08_Projects(MVC)\Ex_08_Projects\10_Rubel_Rana_Solution\Rubel_Rana_1249804\bin\roslyn\vbc.rsp
+F:\My IsDB Projects\08_Projects(MVC)\Ex_08_Projects\10_Rubel_Rana_Solution\Rubel_Rana_1249804\bin\roslyn\VBCSCompiler.exe
+F:\My IsDB Projects\08_Projects(MVC)\Ex_08_Projects\10_Rubel_Rana_Solution\Rubel_Rana_1249804\bin\roslyn\VBCSCompiler.exe.config
+F:\My IsDB Projects\08_Projects(MVC)\Ex_08_Projects\10_Rubel_Rana_Solution\Rubel_Rana_1249804\bin\Antlr3.Runtime.dll
+F:\My IsDB Projects\08_Projects(MVC)\Ex_08_Projects\10_Rubel_Rana_Solution\Rubel_Rana_1249804\bin\EntityFramework.dll
+F:\My IsDB Projects\08_Projects(MVC)\Ex_08_Projects\10_Rubel_Rana_Solution\Rubel_Rana_1249804\bin\EntityFramework.SqlServer.dll
+F:\My IsDB Projects\08_Projects(MVC)\Ex_08_Projects\10_Rubel_Rana_Solution\Rubel_Rana_1249804\bin\itextsharp.dll
+F:\My IsDB Projects\08_Projects(MVC)\Ex_08_Projects\10_Rubel_Rana_Solution\Rubel_Rana_1249804\bin\itextsharp.xmlworker.dll
+F:\My IsDB Projects\08_Projects(MVC)\Ex_08_Projects\10_Rubel_Rana_Solution\Rubel_Rana_1249804\bin\Microsoft.AspNet.Identity.Core.dll
+F:\My IsDB Projects\08_Projects(MVC)\Ex_08_Projects\10_Rubel_Rana_Solution\Rubel_Rana_1249804\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+F:\My IsDB Projects\08_Projects(MVC)\Ex_08_Projects\10_Rubel_Rana_Solution\Rubel_Rana_1249804\bin\Microsoft.AspNet.Identity.Owin.dll
+F:\My IsDB Projects\08_Projects(MVC)\Ex_08_Projects\10_Rubel_Rana_Solution\Rubel_Rana_1249804\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\My IsDB Projects\08_Projects(MVC)\Ex_08_Projects\10_Rubel_Rana_Solution\Rubel_Rana_1249804\bin\Microsoft.Owin.dll
+F:\My IsDB Projects\08_Projects(MVC)\Ex_08_Projects\10_Rubel_Rana_Solution\Rubel_Rana_1249804\bin\Microsoft.Owin.Host.SystemWeb.dll
+F:\My IsDB Projects\08_Projects(MVC)\Ex_08_Projects\10_Rubel_Rana_Solution\Rubel_Rana_1249804\bin\Microsoft.Owin.Security.Cookies.dll
+F:\My IsDB Projects\08_Projects(MVC)\Ex_08_Projects\10_Rubel_Rana_Solution\Rubel_Rana_1249804\bin\Microsoft.Owin.Security.dll
+F:\My IsDB Projects\08_Projects(MVC)\Ex_08_Projects\10_Rubel_Rana_Solution\Rubel_Rana_1249804\bin\Microsoft.Owin.Security.Facebook.dll
+F:\My IsDB Projects\08_Projects(MVC)\Ex_08_Projects\10_Rubel_Rana_Solution\Rubel_Rana_1249804\bin\Microsoft.Owin.Security.Google.dll
+F:\My IsDB Projects\08_Projects(MVC)\Ex_08_Projects\10_Rubel_Rana_Solution\Rubel_Rana_1249804\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+F:\My IsDB Projects\08_Projects(MVC)\Ex_08_Projects\10_Rubel_Rana_Solution\Rubel_Rana_1249804\bin\Microsoft.Owin.Security.OAuth.dll
+F:\My IsDB Projects\08_Projects(MVC)\Ex_08_Projects\10_Rubel_Rana_Solution\Rubel_Rana_1249804\bin\Microsoft.Owin.Security.Twitter.dll
+F:\My IsDB Projects\08_Projects(MVC)\Ex_08_Projects\10_Rubel_Rana_Solution\Rubel_Rana_1249804\bin\Microsoft.Web.Infrastructure.dll
+F:\My IsDB Projects\08_Projects(MVC)\Ex_08_Projects\10_Rubel_Rana_Solution\Rubel_Rana_1249804\bin\Newtonsoft.Json.dll
+F:\My IsDB Projects\08_Projects(MVC)\Ex_08_Projects\10_Rubel_Rana_Solution\Rubel_Rana_1249804\bin\Owin.dll
+F:\My IsDB Projects\08_Projects(MVC)\Ex_08_Projects\10_Rubel_Rana_Solution\Rubel_Rana_1249804\bin\PagedList.dll
+F:\My IsDB Projects\08_Projects(MVC)\Ex_08_Projects\10_Rubel_Rana_Solution\Rubel_Rana_1249804\bin\PagedList.Mvc.dll
+F:\My IsDB Projects\08_Projects(MVC)\Ex_08_Projects\10_Rubel_Rana_Solution\Rubel_Rana_1249804\bin\System.Web.Helpers.dll
+F:\My IsDB Projects\08_Projects(MVC)\Ex_08_Projects\10_Rubel_Rana_Solution\Rubel_Rana_1249804\bin\System.Web.Mvc.dll
+F:\My IsDB Projects\08_Projects(MVC)\Ex_08_Projects\10_Rubel_Rana_Solution\Rubel_Rana_1249804\bin\System.Web.Optimization.dll
+F:\My IsDB Projects\08_Projects(MVC)\Ex_08_Projects\10_Rubel_Rana_Solution\Rubel_Rana_1249804\bin\System.Web.Razor.dll
+F:\My IsDB Projects\08_Projects(MVC)\Ex_08_Projects\10_Rubel_Rana_Solution\Rubel_Rana_1249804\bin\System.Web.WebPages.Deployment.dll
+F:\My IsDB Projects\08_Projects(MVC)\Ex_08_Projects\10_Rubel_Rana_Solution\Rubel_Rana_1249804\bin\System.Web.WebPages.dll
+F:\My IsDB Projects\08_Projects(MVC)\Ex_08_Projects\10_Rubel_Rana_Solution\Rubel_Rana_1249804\bin\System.Web.WebPages.Razor.dll
+F:\My IsDB Projects\08_Projects(MVC)\Ex_08_Projects\10_Rubel_Rana_Solution\Rubel_Rana_1249804\bin\WebGrease.dll
+F:\My IsDB Projects\08_Projects(MVC)\Ex_08_Projects\10_Rubel_Rana_Solution\Rubel_Rana_1249804\bin\itextsharp.xml
+F:\My IsDB Projects\08_Projects(MVC)\Ex_08_Projects\10_Rubel_Rana_Solution\Rubel_Rana_1249804\bin\PagedList.xml
+F:\My IsDB Projects\08_Projects(MVC)\Ex_08_Projects\10_Rubel_Rana_Solution\Rubel_Rana_1249804\bin\PagedList.Mvc.xml
+F:\My IsDB Projects\08_Projects(MVC)\Ex_08_Projects\10_Rubel_Rana_Solution\Rubel_Rana_1249804\bin\System.Web.Helpers.xml
+F:\My IsDB Projects\08_Projects(MVC)\Ex_08_Projects\10_Rubel_Rana_Solution\Rubel_Rana_1249804\bin\System.Web.Mvc.xml
+F:\My IsDB Projects\08_Projects(MVC)\Ex_08_Projects\10_Rubel_Rana_Solution\Rubel_Rana_1249804\bin\System.Web.Optimization.xml
+F:\My IsDB Projects\08_Projects(MVC)\Ex_08_Projects\10_Rubel_Rana_Solution\Rubel_Rana_1249804\bin\System.Web.Razor.xml
+F:\My IsDB Projects\08_Projects(MVC)\Ex_08_Projects\10_Rubel_Rana_Solution\Rubel_Rana_1249804\bin\System.Web.WebPages.xml
+F:\My IsDB Projects\08_Projects(MVC)\Ex_08_Projects\10_Rubel_Rana_Solution\Rubel_Rana_1249804\bin\System.Web.WebPages.Deployment.xml
+F:\My IsDB Projects\08_Projects(MVC)\Ex_08_Projects\10_Rubel_Rana_Solution\Rubel_Rana_1249804\bin\System.Web.WebPages.Razor.xml
+F:\My IsDB Projects\08_Projects(MVC)\Ex_08_Projects\10_Rubel_Rana_Solution\Rubel_Rana_1249804\bin\Newtonsoft.Json.xml
+F:\My IsDB Projects\08_Projects(MVC)\Ex_08_Projects\10_Rubel_Rana_Solution\Rubel_Rana_1249804\bin\Antlr3.Runtime.pdb
+F:\My IsDB Projects\08_Projects(MVC)\Ex_08_Projects\10_Rubel_Rana_Solution\Rubel_Rana_1249804\bin\EntityFramework.xml
+F:\My IsDB Projects\08_Projects(MVC)\Ex_08_Projects\10_Rubel_Rana_Solution\Rubel_Rana_1249804\bin\EntityFramework.SqlServer.xml
+F:\My IsDB Projects\08_Projects(MVC)\Ex_08_Projects\10_Rubel_Rana_Solution\Rubel_Rana_1249804\bin\Microsoft.AspNet.Identity.Core.xml
+F:\My IsDB Projects\08_Projects(MVC)\Ex_08_Projects\10_Rubel_Rana_Solution\Rubel_Rana_1249804\bin\Microsoft.AspNet.Identity.Owin.xml
+F:\My IsDB Projects\08_Projects(MVC)\Ex_08_Projects\10_Rubel_Rana_Solution\Rubel_Rana_1249804\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+F:\My IsDB Projects\08_Projects(MVC)\Ex_08_Projects\10_Rubel_Rana_Solution\Rubel_Rana_1249804\bin\Microsoft.Owin.xml
+F:\My IsDB Projects\08_Projects(MVC)\Ex_08_Projects\10_Rubel_Rana_Solution\Rubel_Rana_1249804\bin\Microsoft.Owin.Host.SystemWeb.xml
+F:\My IsDB Projects\08_Projects(MVC)\Ex_08_Projects\10_Rubel_Rana_Solution\Rubel_Rana_1249804\bin\Microsoft.Owin.Security.xml
+F:\My IsDB Projects\08_Projects(MVC)\Ex_08_Projects\10_Rubel_Rana_Solution\Rubel_Rana_1249804\bin\Microsoft.Owin.Security.Facebook.xml
+F:\My IsDB Projects\08_Projects(MVC)\Ex_08_Projects\10_Rubel_Rana_Solution\Rubel_Rana_1249804\bin\Microsoft.Owin.Security.Cookies.xml
+F:\My IsDB Projects\08_Projects(MVC)\Ex_08_Projects\10_Rubel_Rana_Solution\Rubel_Rana_1249804\bin\Microsoft.Owin.Security.Google.xml
+F:\My IsDB Projects\08_Projects(MVC)\Ex_08_Projects\10_Rubel_Rana_Solution\Rubel_Rana_1249804\bin\Microsoft.Owin.Security.Twitter.xml
+F:\My IsDB Projects\08_Projects(MVC)\Ex_08_Projects\10_Rubel_Rana_Solution\Rubel_Rana_1249804\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+F:\My IsDB Projects\08_Projects(MVC)\Ex_08_Projects\10_Rubel_Rana_Solution\Rubel_Rana_1249804\bin\Microsoft.Owin.Security.OAuth.xml
+F:\My IsDB Projects\08_Projects(MVC)\Ex_08_Projects\10_Rubel_Rana_Solution\Rubel_Rana_1249804\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\My IsDB Projects\08_Projects(MVC)\Ex_08_Projects\10_Rubel_Rana_Solution\Rubel_Rana_1249804\obj\Debug\Rubel_Rana_1249804.csprojAssemblyReference.cache
+F:\My IsDB Projects\08_Projects(MVC)\Ex_08_Projects\10_Rubel_Rana_Solution\Rubel_Rana_1249804\obj\Debug\Rubel_Rana_1249804.csproj.CoreCompileInputs.cache
+F:\My IsDB Projects\08_Projects(MVC)\Ex_08_Projects\10_Rubel_Rana_Solution\Rubel_Rana_1249804\obj\Debug\Rubel_Rana_1249804.csproj.CopyComplete
+F:\My IsDB Projects\08_Projects(MVC)\Ex_08_Projects\10_Rubel_Rana_Solution\Rubel_Rana_1249804\obj\Debug\Rubel_Rana_1249804.dll
+F:\My IsDB Projects\08_Projects(MVC)\Ex_08_Projects\10_Rubel_Rana_Solution\Rubel_Rana_1249804\obj\Debug\Rubel_Rana_1249804.pdb
